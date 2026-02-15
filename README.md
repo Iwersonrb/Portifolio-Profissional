@@ -1,18 +1,29 @@
 ﻿# Portifolio-Profissional
 
+![Status](https://img.shields.io/badge/status-ativo-2ea043?style=flat-square)
+![Feito%20com](https://img.shields.io/badge/feito%20com-HTML%2C%20CSS%20e%20JS-8250df?style=flat-square)
+![Última%20atualização](https://img.shields.io/badge/última%20atualização-14%20fev%202026-1f6feb?style=flat-square)
+
 Portfólio pessoal com foco em transição para tecnologia, apresentando projetos, habilidades e contatos profissionais.
+
+**🔗 Preview:** https://iwersonrb.github.io/Portifolio-Profissional/
 
 ## Sobre
 
 O **Portifolio-Profissional** foi desenvolvido para reunir meus principais projetos, experiências e competências de forma clara, responsiva e visualmente moderna.
 
+**Objetivos principais:**
+- Apresentar projetos e habilidades de forma direta
+- Facilitar o contato profissional
+- Oferecer uma navegação fluida em qualquer dispositivo
+
 ## Tecnologias
 
-- HTML5
-- CSS3
-- JavaScript (vanilla)
-- Font Awesome
-- Google Fonts
+- **HTML5**
+- **CSS3**
+- **JavaScript (vanilla)**
+- **Font Awesome**
+- **Google Fonts**
 
 ## Funcionalidades
 
@@ -25,13 +36,15 @@ O **Portifolio-Profissional** foi desenvolvido para reunir meus principais proje
 
 ## Projetos em destaque
 
-- Site Dragon Core: https://iwersonrb.github.io/projeto-dragon-Core/
-- Quiz Interativo: https://iwersonrb.github.io/quiz-interativo/
-- Site Gatos: https://iwersonrb.github.io/Irbgatos/
-- Uníntese: https://iwersonrb.github.io/projeto-desenvolvido-em-aula/
-- Iwerb IA: https://github.com/Iwersonrb/iwerb-ia
-- Artigo: https://github.com/Iwersonrb/artigo
-- Portifolio-Profissional (site deste portifolio)- https://iwersonrb.github.io/Portifolio-Profissional/
+| Projeto | Link |
+| --- | --- |
+| Portifolio-Profissional (este site) | https://iwersonrb.github.io/Portifolio-Profissional/ |
+| Site Dragon Core | https://iwersonrb.github.io/projeto-dragon-Core/ |
+| Quiz Interativo | https://iwersonrb.github.io/quiz-interativo/ |
+| Site Gatos | https://iwersonrb.github.io/Irbgatos/ |
+| Uníntese | https://iwersonrb.github.io/projeto-desenvolvido-em-aula/ |
+| Iwerb IA | https://github.com/Iwersonrb/iwerb-ia |
+| Artigo | https://github.com/Iwersonrb/artigo |
 
 ## Estrutura de pastas
 
@@ -55,3 +68,7 @@ Portifolio-Profissional/
 - LinkedIn: https://linkedin.com/in/iwersonrb
 - GitHub: https://github.com/iwersonrb
 - E-mail: iwersonrb@gmail.com
+
+---
+
+Se quiser, posso adicionar uma seção de **screenshots** e um **sumário** automático no topo.
