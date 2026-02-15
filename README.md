@@ -70,4 +70,4 @@ Portifolio-Profissional/
 
 ---
 
-Se quiser, posso adicionar uma seção de **screenshots** e um **sumário** automático no topo.
+
