@@ -6,7 +6,7 @@
 
 Portfólio pessoal com foco em transição para tecnologia, apresentando projetos, habilidades e contatos profissionais.
 
-**🔗 Preview:** https://iwersonrb.github.io/Portifolio-Profissional/
+**🔗 Preview:** <a href="https://iwersonrb.github.io/Portifolio-Profissional/" target="_blank" rel="noopener noreferrer">Acessar o site</a>
 
 ## Sobre
 
@@ -38,7 +38,6 @@ O **Portifolio-Profissional** foi desenvolvido para reunir meus principais proje
 
 | Projeto | Link |
 | --- | --- |
-| Portifolio-Profissional (este site) | https://iwersonrb.github.io/Portifolio-Profissional/ |
 | Site Dragon Core | https://iwersonrb.github.io/projeto-dragon-Core/ |
 | Quiz Interativo | https://iwersonrb.github.io/quiz-interativo/ |
 | Site Gatos | https://iwersonrb.github.io/Irbgatos/ |
