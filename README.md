@@ -6,7 +6,7 @@
 
 Portfólio pessoal com foco em transição para tecnologia, apresentando projetos, habilidades e contatos profissionais.
 
-**🔗 Preview:** <a href="https://iwersonrb.github.io/Portifolio-Profissional/" target="_blank" rel="noopener noreferrer">Acessar o site</a>
+**🔗 Preview:** <a href="https://iwersonrb.github.io/Portifolio-Profissional/" target="_blank" rel="noopener noreferrer">Portifolio-Profissional</a>
 
 ## Sobre
 
