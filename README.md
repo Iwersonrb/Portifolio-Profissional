@@ -31,7 +31,7 @@ O **Portifolio-Profissional** foi desenvolvido para reunir meus principais proje
 - Uníntese: https://iwersonrb.github.io/projeto-desenvolvido-em-aula/
 - Iwerb IA: https://github.com/Iwersonrb/iwerb-ia
 - Artigo: https://github.com/Iwersonrb/artigo
-- Portifolio-Profissional (site deste portifolio)-https://iwersonrb.github.io/Portifolio-Profissional/
+- Portifolio-Profissional (site deste portifolio)- https://iwersonrb.github.io/Portifolio-Profissional/
 
 ## Estrutura de pastas
 
